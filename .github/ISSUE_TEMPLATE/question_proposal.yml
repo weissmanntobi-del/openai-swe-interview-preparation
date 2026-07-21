@@ -1,0 +1,29 @@
+name: Original question proposal
+description: Suggest an original educational practice question
+title: "[Question]: "
+labels: ["content"]
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+      description: Provide the complete original prompt.
+    validations:
+      required: true
+  - type: textarea
+    id: signals
+    attributes:
+      label: Skills and evaluation signals
+    validations:
+      required: true
+  - type: textarea
+    id: followups
+    attributes:
+      label: Follow-up constraints
+  - type: checkboxes
+    id: originality
+    attributes:
+      label: Originality
+      options:
+        - label: I confirm this is original educational content and not confidential interview material.
+          required: true

@@ -1,0 +1,25 @@
+name: Content correction
+description: Report an error, ambiguity, or outdated official link
+title: "[Correction]: "
+labels: ["documentation"]
+body:
+  - type: input
+    id: location
+    attributes:
+      label: File and section
+    validations:
+      required: true
+  - type: textarea
+    id: issue
+    attributes:
+      label: Problem
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Suggested correction
+  - type: input
+    id: source
+    attributes:
+      label: Supporting source

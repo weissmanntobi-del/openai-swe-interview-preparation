@@ -104,7 +104,7 @@ This repository is a useful practice resource, not a substitute for a structured
 
 For candidates who need deeper preparation, detailed answer frameworks, realistic mock material, evaluation rubrics, diagrams, take-home guidance, and structured study plans:
 
-**[View the OpenAI Interview Playbook](YOUR_PLAYBOOK_URL)**
+**[View the OpenAI Interview Playbook](https://tobiweissmann.gumroad.com/l/zefvek)**
 
 The paid resource should be presented as a deeper preparation system—not as access to secret or guaranteed interview questions.
 
@@ -159,5 +159,3 @@ Original repository content is available under the [CC BY-NC 4.0 license](LICENS
 
 Created by **Tobias Weissmann**.
 
-Replace `YOUR_PLAYBOOK_URL` before publishing.
-# openai-swe-interview-preparation
